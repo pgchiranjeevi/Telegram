@@ -6,6 +6,11 @@ public class LG implements Airconditioner {
 	public void display() {
 		System.out.println("LG display method");
 
+				System.out.println("This s pg chiranjeevi Instagram");
+
+
+		
+
 	}
 
 	@Override
