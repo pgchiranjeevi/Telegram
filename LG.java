@@ -7,6 +7,8 @@ public class LG implements Airconditioner {
 		System.out.println("LG display method");
 
 				System.out.println("This s pg chiranjeevi Instagram");
+		System.out.println("forked");
+		System.out.println("saved");
 
 
 		
